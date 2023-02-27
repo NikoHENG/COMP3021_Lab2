@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hk.ust.cse.comp3021.lab2.BusCompanyTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2023-02-25T14:45:23" hostname="NIKOLAPTOP" time="0.027">
+  <properties/>
+  <testcase name="testGetNames()" classname="hk.ust.cse.comp3021.lab2.BusCompanyTest" time="0.014"/>
+  <testcase name="testNumBuses()" classname="hk.ust.cse.comp3021.lab2.BusCompanyTest" time="0.001"/>
+  <testcase name="testRemoveAllBuses()" classname="hk.ust.cse.comp3021.lab2.BusCompanyTest" time="0.001"/>
+  <testcase name="testGetNumCompanies()" classname="hk.ust.cse.comp3021.lab2.BusCompanyTest" time="0.0"/>
+  <testcase name="testFailureAddDuplicate()" classname="hk.ust.cse.comp3021.lab2.BusCompanyTest" time="0.0"/>
+  <testcase name="testGetBus()" classname="hk.ust.cse.comp3021.lab2.BusCompanyTest" time="0.0"/>
+  <testcase name="testNumCompaniesWithGarbageCollection()" classname="hk.ust.cse.comp3021.lab2.BusCompanyTest" time="0.005"/>
+  <testcase name="testSuccessAddDuplicateIdDifferentCompanies()" classname="hk.ust.cse.comp3021.lab2.BusCompanyTest" time="0.0"/>
+  <testcase name="testModels()" classname="hk.ust.cse.comp3021.lab2.BusCompanyTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
